@@ -28,7 +28,7 @@ This repository contains important Data Structures and Algorithms problems focus
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 ## How to Use
-- Each problem folder contains the solution code and explanation.
+- Both folder contains the solution code and explanation.
 - Solutions are written to enhance understanding of data structure applications and optimization techniques.
 
 ---
