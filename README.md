@@ -18,7 +18,7 @@ This repository contains important Data Structures and Algorithms problems focus
 - [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
 
 ### Queue Related
-- [First Unique Number](https://leetcode.com/problems/first-unique-character-in-a-string/) *(You can replace with the exact problem if different)*
+- [First Unique Number](https://leetcode.com/problems/first-unique-character-in-a-string/) 
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 
